@@ -12,8 +12,8 @@ Static landing site for the TempMail Android app.
 
 ## App details
 
-- package: `com.vkrm.tempmail`
-- Play Store URL: `https://play.google.com/store/apps/details?id=com.vkrm.tempmail`
+- package: `com.vkrm.email.tempmail`
+- Play Store URL: `https://play.google.com/store/apps/details?id=com.vkrm.email.tempmail`
 
 ## GitHub Pages
 
